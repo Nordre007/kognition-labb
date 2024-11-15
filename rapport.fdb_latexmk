@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1731675890 "/home/perik/kognition/kognition-labb/rapport.tex" "/home/perik/kognition/kognition-labb/rapport.pdf" "rapport" 1731675909
+["pdflatex"] 1731676153 "/home/perik/kognition/kognition-labb/rapport.tex" "/home/perik/kognition/kognition-labb/rapport.pdf" "rapport" 1731676153
   "/etc/texmf/web2c/texmf.cnf" 1726575855 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/perik/kognition/kognition-labb/rapport.aux" 1731675890 141 a5148ba75911b0f6eee7c0c462100e88 ""
-  "/home/perik/kognition/kognition-labb/rapport.tex" 1731675890 248 382e6ee10b53c2b40bdb01793fcf725c ""
+  "/home/perik/kognition/kognition-labb/rapport.aux" 1731676153 141 a5148ba75911b0f6eee7c0c462100e88 ""
+  "/home/perik/kognition/kognition-labb/rapport.tex" 1731676153 254 b96c0f15295eb029482cc95ee54eeac3 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
@@ -39,14 +39,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1726576863 214428 4cd7868e3e529efe85ab6c7464319ab0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1726576871 8263312 e4054bbdcbc135730c448d4fc74d862b ""
-  "rapport.aux" 1731675890 141 a5148ba75911b0f6eee7c0c462100e88 "pdflatex"
-  "rapport.tex" 1731675890 248 382e6ee10b53c2b40bdb01793fcf725c ""
-  "sections/introduktion.aux" 1731675890 436 9ee901bbb19be71c17b371f0ffad46cf "pdflatex"
+  "rapport.aux" 1731676153 141 a5148ba75911b0f6eee7c0c462100e88 "pdflatex"
+  "rapport.tex" 1731676153 254 b96c0f15295eb029482cc95ee54eeac3 ""
+  "sections/introduktion.aux" 1731676153 436 9ee901bbb19be71c17b371f0ffad46cf "pdflatex"
   "sections/introduktion.tex" 1731675866 50 797de93d1d8cf51eef2d1a3f97842710 ""
   (generated)
-  "rapport.log"
   "/home/perik/kognition/kognition-labb/rapport.pdf"
   "/home/perik/kognition/kognition-labb/rapport.log"
   "rapport.aux"
-  "sections/introduktion.aux"
   "rapport.pdf"
+  "rapport.log"
+  "sections/introduktion.aux"
