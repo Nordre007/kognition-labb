@@ -12,3 +12,5 @@ aux_files/
 *.cb2
 .*.lb
 *.vscode
+*.pdf
+*.fdb_latexmk
