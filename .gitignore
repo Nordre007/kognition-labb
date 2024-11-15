@@ -11,3 +11,4 @@ aux_files/
 *.cb
 *.cb2
 .*.lb
+*.vscode
