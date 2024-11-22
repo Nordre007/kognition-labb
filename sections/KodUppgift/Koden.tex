@@ -8,3 +8,19 @@ final def timestamp = _tslm
 override final def update(): Unit = if System.currentTimeMillis >_tslm + millisbetweenmoves then {_tslm =
 System.currentTimeMillis; move()} }
 \end{lstlisting}
+
+\begin{lstlisting}
+trait entity { 
+	def update(): Unit }
+	
+trait canmove extends entity { 
+	def move(): Unit
+	var mps: Double = 20.0
+	final def millisbetweenmoves: Int = (1000 / mps).round.toInt max 1
+	private var _tslm: Long = System.currentTimeMillis
+	final def timestamp = _tslm
+	override final def update(): Unit = 
+		if {System.currentTimeMillis >_tslm + millisbetweenmoves}
+		then {_tslm =system.currentTimeMillis; move()} 
+	}
+\end{lstlisting}
